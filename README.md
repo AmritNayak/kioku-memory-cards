@@ -1,7 +1,7 @@
 # kioku-memory-cards
 A Memory Card Game
 
-# Kiyoku - Japanese term for Memory
+# Kioku - Japanese term for Memory
 
 ## About
 > The classic game where the game board displays multiple cards all upside down and each card has a corresponding pair that matches the current card selected.
@@ -36,4 +36,4 @@ A Memory Card Game
 * Name: Amrit Nayak
 * Regd. No.: 1941012132
 
-** :) **
+**:)**
