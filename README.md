@@ -30,7 +30,7 @@ A Memory Card Game
 > The quizzes conducted were also great, it helped in testing mine as well as other students' knowledge.
 
 ## Hosted Game Link
-[Kiyoku - A Memory Game](https://amritnayak.github.io/kioku-memory-cards/)
+[Kioku - A Memory Game](https://amritnayak.github.io/kioku-memory-cards/)
 
 ## Details
 * Name: Amrit Nayak
